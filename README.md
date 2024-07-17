@@ -11,10 +11,10 @@ to do some Analysis.
 
  # Steps to achieve results:
 1. Scraping The Data from The web, https://www.nba.com/.
-2. Clean and Construct The Data for Analysis
-3. Added calculations to measure new Matrics such as:
+2. Clean and Construct The Data for Analysis.
+4. Added calculations to measure new Matrics such as:
 (Pace - Production - Stats per 48 Minutes - Stats per 100 Possessions - True Shooting %)
-4. Visualization 
+5. Visualization 
 
    
 Here are The findings:
