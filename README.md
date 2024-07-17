@@ -10,7 +10,7 @@ to do some Analysis.
 5. Prove That Giannis is The Best Player in The NBA Statistically.
 
  # Steps to achieve results:
-1. Scraping The Data from The web, https://www.nba.com/.
+1. Scraping The Data from The web, https://www.nba.com/
 2. Clean and Construct The Data for Analysis.
 4. Added calculations to measure new Matrics such as:
 (Pace - Production - Stats per 48 Minutes - Stats per 100 Possessions - True Shooting %)
