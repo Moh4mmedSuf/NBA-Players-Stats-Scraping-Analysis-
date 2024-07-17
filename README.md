@@ -4,8 +4,8 @@ I've grown as an NBA fan these past few years, and as a little challenge I decid
 to do some Analysis.
 # My goals were:
 1. discover trends over the past 10 years
-2. Comparing The Regular Season to The Playoffs
-3. Minutes & Points Distribution
+2. Comparing The Regular Season to The Playoffs.
+3. Minutes & Points Distribution.
 4. Find the most Productive Player in the past 10 years and 5 years.
 5. Prove That Giannis is The Best Player in The NBA Statistically.
 
