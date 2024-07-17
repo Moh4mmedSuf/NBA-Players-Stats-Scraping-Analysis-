@@ -1,12 +1,20 @@
 # NBA-Players-Stats-Scraping-Analysis-
 
-I've grown as an NBA fan these past few years, and as a little challange I decided to Scrape/Extract the Data from https://www.nba.com/
-to do some Analysis, some of my Goals were:
+I've grown as an NBA fan these past few years, and as a little challenge I decided to Scrape/Extract the Data from https://www.nba.com/
+to do some Analysis.
+# My goals were:
 1. discover trends over the past 10 years
 2. Comparing The Regular Season to The Playoffs
 3. Minutes & Points Distribution
 4. Find the most Productive Player in the past 10 years and 5 years
 5. Prove That Giannis is The Best Player in The NBA Statistically.
+
+ # Steps to achieve results:
+1. Scraping The Data from The web, https://www.nba.com/.
+2. Clean and Construct The Data for Analysis
+3. Added calculations to measure new Matrics such as:
+(Pace - Production - Stats per 48 Minutes - Stats per 100 Possessions - True Shooting %)
+4. Visualization 
 
    
 Here are The findings:
@@ -31,7 +39,7 @@ Points & Minutes
 -
 -
 -
-Pace change over the years
+Pace change From Regular Season to playoffs over the years
 ![Pace comparison](https://github.com/user-attachments/assets/1b1f310e-455b-43d5-8497-a38fbac55436)
 
 
